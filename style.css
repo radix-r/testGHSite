@@ -1,14 +1,4 @@
-html {
-  background-color: green;
-  font-size: 20px;
-}
-
-ul {
-  background: #046C85;
-  padding: 10px;
-  border: 1px solid black;
-}
-
-li {
-  margin-left: 20px;
+body {
+  background-color: #555555;
+  color: #cccccc; /* set default colors*/
 }
